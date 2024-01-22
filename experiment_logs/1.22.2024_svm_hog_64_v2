@@ -1,0 +1,162 @@
+2024-01-22 11:15:10,328 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 0.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,331 roc_auc: 0.905
+2024-01-22 11:15:10,331 class_0_accuracy: 0.903
+2024-01-22 11:15:10,331 class_1_accuracy: 0.907
+2024-01-22 11:15:10,331 precision: 0.9034476463193322
+2024-01-22 11:15:10,331 accuracy: 0.905
+2024-01-22 11:15:10,331 recall: 0.907
+2024-01-22 11:15:10,331 f1: 0.9051823936519494
+2024-01-22 11:15:10,332 
+
+2024-01-22 11:15:10,332 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 1.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,332 roc_auc: 0.9020000000000001
+2024-01-22 11:15:10,332 class_0_accuracy: 0.8985000000000001
+2024-01-22 11:15:10,332 class_1_accuracy: 0.9055
+2024-01-22 11:15:10,332 precision: 0.8992069408943166
+2024-01-22 11:15:10,332 accuracy: 0.902
+2024-01-22 11:15:10,332 recall: 0.9055
+2024-01-22 11:15:10,332 f1: 0.9023422759609618
+2024-01-22 11:15:10,332 
+
+2024-01-22 11:15:10,332 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 1.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,332 roc_auc: 0.89925
+2024-01-22 11:15:10,332 class_0_accuracy: 0.901
+2024-01-22 11:15:10,332 class_1_accuracy: 0.8975
+2024-01-22 11:15:10,332 precision: 0.9006593205181914
+2024-01-22 11:15:10,332 accuracy: 0.89925
+2024-01-22 11:15:10,332 recall: 0.8975
+2024-01-22 11:15:10,332 f1: 0.8990723011987982
+2024-01-22 11:15:10,332 
+
+2024-01-22 11:15:10,333 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 2.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,333 roc_auc: 0.8932500000000001
+2024-01-22 11:15:10,333 class_0_accuracy: 0.897
+2024-01-22 11:15:10,333 class_1_accuracy: 0.8895
+2024-01-22 11:15:10,333 precision: 0.896221425424393
+2024-01-22 11:15:10,333 accuracy: 0.89325
+2024-01-22 11:15:10,333 recall: 0.8895
+2024-01-22 11:15:10,333 f1: 0.892847553207085
+2024-01-22 11:15:10,333 
+
+2024-01-22 11:15:10,333 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 0.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,333 roc_auc: 0.9112500000000001
+2024-01-22 11:15:10,333 class_0_accuracy: 0.905
+2024-01-22 11:15:10,333 class_1_accuracy: 0.9175
+2024-01-22 11:15:10,333 precision: 0.9061993943910938
+2024-01-22 11:15:10,333 accuracy: 0.91125
+2024-01-22 11:15:10,333 recall: 0.9175
+2024-01-22 11:15:10,333 f1: 0.911798619485423
+2024-01-22 11:15:10,333 
+
+2024-01-22 11:15:10,333 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 1.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,333 roc_auc: 0.9132500000000001
+2024-01-22 11:15:10,333 class_0_accuracy: 0.9105000000000001
+2024-01-22 11:15:10,334 class_1_accuracy: 0.916
+2024-01-22 11:15:10,334 precision: 0.9110042158032282
+2024-01-22 11:15:10,334 accuracy: 0.91325
+2024-01-22 11:15:10,334 recall: 0.916
+2024-01-22 11:15:10,334 f1: 0.9134789572640988
+2024-01-22 11:15:10,334 
+
+2024-01-22 11:15:10,334 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 1.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,334 roc_auc: 0.911
+2024-01-22 11:15:10,334 class_0_accuracy: 0.909
+2024-01-22 11:15:10,334 class_1_accuracy: 0.913
+2024-01-22 11:15:10,334 precision: 0.909373412496825
+2024-01-22 11:15:10,334 accuracy: 0.911
+2024-01-22 11:15:10,334 recall: 0.913
+2024-01-22 11:15:10,334 f1: 0.9111505545993499
+2024-01-22 11:15:10,334 
+
+2024-01-22 11:15:10,334 Parameters: {'HOG__cells_per_block': (4, 4), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 2.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,334 roc_auc: 0.91325
+2024-01-22 11:15:10,334 class_0_accuracy: 0.9115
+2024-01-22 11:15:10,334 class_1_accuracy: 0.915
+2024-01-22 11:15:10,334 precision: 0.9118250832752344
+2024-01-22 11:15:10,335 accuracy: 0.91325
+2024-01-22 11:15:10,335 recall: 0.915
+2024-01-22 11:15:10,335 f1: 0.913384781192964
+2024-01-22 11:15:10,335 
+
+2024-01-22 11:15:10,335 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 0.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,335 roc_auc: 0.9145000000000001
+2024-01-22 11:15:10,335 class_0_accuracy: 0.9035
+2024-01-22 11:15:10,335 class_1_accuracy: 0.9255
+2024-01-22 11:15:10,335 precision: 0.9055926914300871
+2024-01-22 11:15:10,335 accuracy: 0.9145
+2024-01-22 11:15:10,335 recall: 0.9255
+2024-01-22 11:15:10,336 f1: 0.9154116207391565
+2024-01-22 11:15:10,336 
+
+2024-01-22 11:15:10,336 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 1.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,336 roc_auc: 0.9195
+2024-01-22 11:15:10,336 class_0_accuracy: 0.908
+2024-01-22 11:15:10,336 class_1_accuracy: 0.931
+2024-01-22 11:15:10,336 precision: 0.9100775934561578
+2024-01-22 11:15:10,336 accuracy: 0.9195
+2024-01-22 11:15:10,336 recall: 0.931
+2024-01-22 11:15:10,336 f1: 0.9204091406677615
+2024-01-22 11:15:10,336 
+
+2024-01-22 11:15:10,336 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 1.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,336 roc_auc: 0.9185000000000001
+2024-01-22 11:15:10,336 class_0_accuracy: 0.909
+2024-01-22 11:15:10,336 class_1_accuracy: 0.928
+2024-01-22 11:15:10,336 precision: 0.9106925471341947
+2024-01-22 11:15:10,336 accuracy: 0.9185000000000001
+2024-01-22 11:15:10,336 recall: 0.928
+2024-01-22 11:15:10,337 f1: 0.919253972708664
+2024-01-22 11:15:10,337 
+
+2024-01-22 11:15:10,337 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 2.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,337 roc_auc: 0.9187500000000001
+2024-01-22 11:15:10,337 class_0_accuracy: 0.908
+2024-01-22 11:15:10,337 class_1_accuracy: 0.9295
+2024-01-22 11:15:10,337 precision: 0.9099464246350837
+2024-01-22 11:15:10,337 accuracy: 0.91875
+2024-01-22 11:15:10,337 recall: 0.9295
+2024-01-22 11:15:10,337 f1: 0.9196033662964131
+2024-01-22 11:15:10,337 
+
+2024-01-22 11:15:10,337 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 0.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,337 roc_auc: nan
+2024-01-22 11:15:10,337 class_0_accuracy: nan
+2024-01-22 11:15:10,337 class_1_accuracy: nan
+2024-01-22 11:15:10,337 precision: nan
+2024-01-22 11:15:10,337 accuracy: nan
+2024-01-22 11:15:10,337 recall: nan
+2024-01-22 11:15:10,337 f1: nan
+2024-01-22 11:15:10,337 
+
+2024-01-22 11:15:10,337 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 1.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,337 roc_auc: nan
+2024-01-22 11:15:10,337 class_0_accuracy: nan
+2024-01-22 11:15:10,337 class_1_accuracy: nan
+2024-01-22 11:15:10,338 precision: nan
+2024-01-22 11:15:10,338 accuracy: nan
+2024-01-22 11:15:10,338 recall: nan
+2024-01-22 11:15:10,338 f1: nan
+2024-01-22 11:15:10,338 
+
+2024-01-22 11:15:10,338 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 1.5, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,338 roc_auc: nan
+2024-01-22 11:15:10,338 class_0_accuracy: nan
+2024-01-22 11:15:10,338 class_1_accuracy: nan
+2024-01-22 11:15:10,338 precision: nan
+2024-01-22 11:15:10,338 accuracy: nan
+2024-01-22 11:15:10,338 recall: nan
+2024-01-22 11:15:10,338 f1: nan
+2024-01-22 11:15:10,338 
+
+2024-01-22 11:15:10,338 Parameters: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (16, 16), 'SVM__C': 2.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,338 roc_auc: nan
+2024-01-22 11:15:10,338 class_0_accuracy: nan
+2024-01-22 11:15:10,338 class_1_accuracy: nan
+2024-01-22 11:15:10,338 precision: nan
+2024-01-22 11:15:10,338 accuracy: nan
+2024-01-22 11:15:10,338 recall: nan
+2024-01-22 11:15:10,338 f1: nan
+2024-01-22 11:15:10,338 
+
+2024-01-22 11:15:10,338 Best parameters found: {'HOG__cells_per_block': (8, 8), 'HOG__orientations': 9, 'HOG__pixels_per_cell': (8, 8), 'SVM__C': 1.0, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+2024-01-22 11:15:10,338 Best cross-validated ROC AUC Score: 0.9195
